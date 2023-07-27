@@ -1,0 +1,28 @@
+  *{
+    background-color: darkgray;
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+    border-style: dashed;
+    border-width: 5px;
+    border-color: brown;
+  
+}
+p{
+    color: darkred;
+}
+.class01 #image{
+    background-image: url(image/Hobbit01.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom; 
+    background-attachment: fixed;
+
+}
+.class01 p{
+    color: blue;
+    
+}
+.class01 #pfirst{
+ background-color: lightsteelblue;
+}
